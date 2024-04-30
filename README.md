@@ -27,7 +27,7 @@ Astronomical image analysis plays a crucial role in understanding celestial phen
 
 ## Dependencies
 
-- Python 3
+- Python 3.x
 - TensorFlow
 - Keras
 - NumPy
